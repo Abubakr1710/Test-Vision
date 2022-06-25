@@ -1,6 +1,4 @@
-from turtle import color
 import cv2
-from numpy import size
 import streamlit as st
 import numpy as np
 import add_functions as af
