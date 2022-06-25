@@ -1,5 +1,3 @@
-from pickle import FRAME
-from turtle import color
 import cv2
 import streamlit as st
 
